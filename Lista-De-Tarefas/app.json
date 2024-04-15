@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "afea77ad-9f37-4097-8513-119e6e3f5a67"
+      }
+    },
+    "android": {
+      "package": "com.hepper.listadetarefas"
+    }
+  }
+}
